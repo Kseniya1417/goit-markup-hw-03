@@ -118,6 +118,9 @@ ul,h1,h2,h3,p{
 .contacts-tel:focus {
     color: var(--third-color);
 }
+.container-border{
+    border-bottom: 1px solid #ECECEC;
+}
 /*------------HERO-----------*/
 .hero-title{
     margin: 0;
@@ -320,6 +323,7 @@ ul,h1,h2,h3,p{
 }
 .portfolio-section-item-btn{
     font-weight: 500;
+    border-radius: 4px;
         line-height: 1.62;
         text-align: center;
         letter-spacing: 0.03em;
