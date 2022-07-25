@@ -324,6 +324,7 @@ ul,h1,h2,h3,p{
 .portfolio-section-item-btn{
     font-weight: 500;
     border-radius: 4px;
+    border-color: var(--section-team-baskground-color);
         line-height: 1.62;
         text-align: center;
         letter-spacing: 0.03em;
